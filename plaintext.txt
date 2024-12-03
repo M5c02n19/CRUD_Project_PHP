@@ -1,0 +1,9 @@
+project/
+├── index.php          (หน้า Login)
+├── dashboard.php      (หน้า Dashboard หลัง Login)
+├── crud.php           (หน้า CRUD)
+├── data/
+│   ├── users.csv      (เก็บข้อมูล User Login)
+│   ├── records.csv    (เก็บข้อมูล CRUD)
+├── styles.css         (สำหรับตกแต่งหน้าเว็บ)
+└── functions.php      (เก็บฟังก์ชันช่วย)
